@@ -9,13 +9,14 @@
     "toDirs0": ["F:\\billyxin-doc\\MachineSettings"],
     "fromDirs": [
         "E:\\CreateProcess",
-        "E:\\===MeatWorld===",
         "E:\\===YingTaoZi===",
         "D:\\Program Files\\Adobe After Effects 2020\\Support Files\\Scripts",
         "H:\\Documents\\Adobe\\After Effects 2020\\User Presets",
-        "F:\\billyxin-doc"
+        "F:\\billyxin-doc",
+        "F:\\billyxin-modules",
+        "F:\\billyxin-works"
     ],
-    "ignores": ["node_modules",".git"],
+    "ignores": [".git"],
     "toDirs": ["H:\\A_Backup"],
     "toDirs2": ["X:\\B_Backup"],
     "tests": ["F:\\Code\\test1", "F:\\Code\\test2"]
