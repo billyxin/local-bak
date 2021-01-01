@@ -15,7 +15,8 @@
         "F:\\billyxin-doc",
         "F:\\billyxin-modules",
 		"D:\\DirectRun",
-        "F:\\billyxin-works"
+        "F:\\billyxin-works",
+        "F:\\billy-code"
     ],
     "ignores": [".git"],
     "toDirs": ["U:\\A_Backup"],
