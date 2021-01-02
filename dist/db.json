@@ -8,15 +8,17 @@
     ],
     "toDirs0": ["F:\\billyxin-doc\\MachineSettings"],
     "fromDirs": [
+        "D:\\Program Files\\Adobe After Effects 2020\\Support Files\\Scripts",
+		"D:\\DirectRun",
         "E:\\CreateProcess",
         "E:\\YingTaoZi",
-        "D:\\Program Files\\Adobe After Effects 2020\\Support Files\\Scripts",
-        "H:\\Documents\\Adobe\\After Effects 2020\\User Presets",
-        "F:\\billyxin-doc",
+        "F:\\billy-fast",
+        "F:\\billy-code",
         "F:\\billyxin-modules",
-		"D:\\DirectRun",
         "F:\\billyxin-works",
-        "F:\\billy-code"
+        "F:\\collection",
+        "F:\\doc",
+        "H:\\Documents\\Adobe\\After Effects 2020\\User Presets"
     ],
     "ignores": [".git"],
     "toDirs": ["U:\\A_Backup"],
