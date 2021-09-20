@@ -1,10 +1,11 @@
 {
     "fromFiles": [
-        "C:\\Users\\billyxin\\AppData\\Roaming\\Adobe\\After Effects\\17.0\\aeks\\billy_key_ae.txt",
-        "H:\\Documents\\Adobe\\Premiere Pro\\14.0\\Profile-billyxin\\Win\\billy_pr.kys",
-        "C:\\Users\\billyxin\\AppData\\Roaming\\Adobe\\Audition\\13.0\\Shortcuts\\billy.xml",
-        "C:\\Users\\billyxin\\AppData\\Roaming\\Adobe\\Adobe Photoshop 2020\\Presets\\Keyboard Shortcuts\\billy_ps.kys",
-        "C:\\Users\\billyxin\\AppData\\Roaming\\Adobe\\Adobe Illustrator 24 Settings\\zh_CN\\x64\\billy_ai.kys"
+        "C:\\Users\\billy\\AppData\\Roaming\\Adobe\\After Effects\\17.5\\aeks\\billy_key_ae.txt",
+		"G:\\document\\Adobe\\Premiere Pro\\14.0\\Profile-billy\\Win\\billy_pr.kys",
+		"C:\\Users\\billy\\AppData\\Roaming\\Adobe\\Audition\\13.0\\Shortcuts\\billy.xml",
+		"C:\\Users\\billy\\AppData\\Roaming\\Adobe\\Adobe Photoshop 2021\\Presets\\Keyboard Shortcuts\\billy_ps.kys",
+		"C:\\Users\\billy\\AppData\\Roaming\\Adobe\\Adobe Illustrator 25 Settings\\zh_CN\\x64\\billy_ai.kys",
+		"C:\\Users\\billy\\AppData\\Roaming\\Adobe\\Adobe Photoshop 2021\\Presets\\Custom Toolbars\\billy-ps-tools.tbr"
     ],
     "toDirs0": ["F:\\doc\\MachineSettings"],
     "fromDirs": [
@@ -18,10 +19,10 @@
         "F:\\billyxin-works",
         "F:\\collection",
         "F:\\doc",
-        "H:\\Documents\\Adobe\\After Effects 2020\\User Presets"
+        "G:\\document\\Adobe\\After Effects 2020\\User Presets"
     ],
     "ignores": [".git"],
-    "toDirs": ["U:\\A_Backup"],
-    "toDirs2": ["X:\\B_Backup"],
-    "tests": ["F:\\Code\\test1", "F:\\Code\\test2"]
+    "toDirs": ["N:\\local-a"],
+    "toDirs2": ["K:\\local-b"],
+    "tests": ["", ""]
 }
